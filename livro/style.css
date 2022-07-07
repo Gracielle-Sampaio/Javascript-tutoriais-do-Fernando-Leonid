@@ -1,0 +1,18 @@
+:root{
+  --cor1:#F5EDDC;
+  --cor2:#CFD2CF;
+  --cor3:#A2B5BB;
+  --cor4:#0A2E36;
+  --cor5:#EB1D36;
+}
+header, main{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+button{
+  width: 100px;
+}
+img{
+  width: 800px;
+}
