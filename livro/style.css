@@ -5,7 +5,10 @@
   --cor4:#0A2E36;
   --cor5:#EB1D36;
 }
-header, main, div.col-6{
+body{
+  background-color: var(--cor1);
+}
+header, main, div{
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -17,5 +20,5 @@ button{
   width: 100px;
 }
 img{
-  width: 800px;
+  width: 450px;
 }
